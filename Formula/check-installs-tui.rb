@@ -1,8 +1,8 @@
 class CheckInstallsTui < Formula
   desc "Terminal UI for browsing installed packages across package managers"
   homepage "https://github.com/sebidc/check-installs-tui"
-  url "https://github.com/sebidc/check-installs-tui/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "6c7d7a1350bcc373c800166a6e5f0e4d9819c2aba31ffe8034f55388413cabe5"
+  url "https://github.com/sebidc/check-installs-tui/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "c333f5cb8e49065287fc8981379291b1a371385586249d0f88a12a2ae024b866"
   license "MIT"
 
   depends_on "fzf"
